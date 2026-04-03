@@ -3,7 +3,7 @@ pipeline {
         stages {
                 stage('Clone') {
                     steps {
-                        git 'https://github.com/TON_USERNAME/TON_REPO.git'
+                        git 'https://github.com/ayoubniri78/jenkins-java-pipeline.git'
                     }
                 }
 
