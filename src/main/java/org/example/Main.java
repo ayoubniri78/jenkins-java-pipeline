@@ -17,6 +17,7 @@ public class Main {
         @Override
         public void run() {
             System.out.println("bonjour c'est une thread");
+            System.out.println("test ");
         }
     }
 }
